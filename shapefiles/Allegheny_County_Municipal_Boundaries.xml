@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact gco:nilReason="missing"/>
+<gmd:dateStamp gco:nilReason="missing"/>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation gco:nilReason="missing"/>
+<gmd:abstract>
+<gco:CharacterString>This dataset demarcates the municipal boundaries in Allegheny County.  Data was created to portray the boundaries of
+the 130 Municipalities in Allegheny County the attribute table includes
+additional descriptive information including Councils of Government (COG) affiliation (regional governing and coordinating bodies
+comprised of several bordering municipalities), School District,
+Congressional District, FIPS and County Municipal Code and County Council
+District.
+
+If viewing this description on the Western Pennsylvania
+Regional Data Center’s open data portal (http://www.wprdc.org), this
+dataset is harvested on a weekly basis from Allegheny County’s GIS data portal
+(http://openac.alcogis.opendata.arcgis.com/). The
+full metadata record for this dataset can also be found on Allegheny County’s
+GIS portal. You can access the metadata record and other resources on the GIS
+portal by clicking on the “Explore” button (and choosing the “Go to resource”
+option) to the right of the “ArcGIS Open Dataset” text below.
+
+Category:  Civic Vitality and Governance
+
+Organization:  Allegheny County
+
+Department:  Geographic Information Systems Group; Department of
+Administrative Services
+
+Temporal
+Coverage:  current
+
+Data
+Notes:  
+
+Coordinate System: 
+Pennsylvania State Plane South Zone 3702; U.S. Survey Foot
+
+Development Notes:  none
+
+Other: 
+none
+
+Related
+Document(s):  Data
+Dictionary (none)
+
+Frequency
+- Data Change:  As needed
+
+Frequency
+- Publishing:  As needed
+
+Data
+Steward Name:  Eli Thomas
+
+Data
+Steward Email: gishelp@alleghenycounty.us</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Allegheny County Municipal Boundaries</gco:CharacterString>
+</gmd:purpose>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>administrative</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>boundaries</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>local government</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>administrative</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>boundaries</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>local government</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>administrative</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>boundaries</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword>
+<gco:CharacterString>local government</gco:CharacterString>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>Use Constraints:&#13;
+All parties acknowledge that the data is for informational purposes only, there&#13;
+is no guarantee as to its completeness or accuracy. Allegheny County Division&#13;
+of Computer Services Geographic Information Systems Group is not responsible&#13;
+for any reliance upon said data.&#13;
+&#13;
+Distribution&#13;
+Liability:&#13;
+The USER shall indemnify, save harmless, and, if requested, defend those&#13;
+parties involved with the development and distribution of this data, their&#13;
+officers, agents, and employees from and against any suits, claims, or actions&#13;
+for injury, death, or property damage arising out of the use of or any defect&#13;
+in the FILES or any accompanying documentation. Those parties involved with the&#13;
+development and distribution excluded any and all implied warranties, including&#13;
+warranties or merchantability and fitness for a particular purpose and makes no&#13;
+warranty or representation, either express or implied, with respect to the&#13;
+FILES or accompanying documentation, including its quality, performance,&#13;
+merchantability, or fitness for a particular purpose. The FILES and&#13;
+documentation are provided &amp;quot;as is&amp;quot; and the USER assumes the entire&#13;
+risk as to its quality and performance. Those parties involved with the&#13;
+development and distribution of this data will not be liable for any direct,&#13;
+indirect, special, incidental, or consequential damages arising out of the use&#13;
+or inability to use the FILES or any accompanying documentation.</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:language gco:nilReason="missing"/>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+</gmd:MD_Metadata>
